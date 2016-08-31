@@ -1,0 +1,70 @@
+textarea.noresize {
+    resize: none;
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    margin: 0;
+}
+
+a.small-link, span.small-link {
+    font-size: 8pt;
+    cursor: pointer;
+}
+
+.message .content {
+    margin: 3px;
+    border: 1px solid #CCCCCC;
+    padding: 3px;
+    background-color: #DDDDDD;
+}
+
+.ng-invalid.ng-touched {
+    border: 1px solid red;
+}
+
+.header-footer {
+    padding: 5px;
+    border: 1px solid #CCCCCC;
+    background-color: #EEEEEE;
+    color: navy;
+    margin: 2px 0;
+}
+
+.header-radius {
+    border-radius: 5px 5px 0 0;
+}
+
+.footer-radius {
+    border-radius: 0 0 5px 5px;
+}
+
+h4.header-footer {
+    padding: 8px;
+}
+
+.no-radius {
+    border-radius: 0;
+}
+
+audio {
+    width: cacl(100% - 6px);
+    margin: 3px;
+}
+
+.userlist {
+    border: 1px solid #666666;
+    background: #777777;
+    border-radius: 5px;
+    padding: 5px;
+    color: #CCCCCC;
+    margin-bottom: 5px;
+}
+
+.user {
+    margin: 5px 0;
+    border: 1px solid gray;
+    background: lightgray;
+    padding: 3px;
+    border-radius: 3px;
+    color: #333333;
+}

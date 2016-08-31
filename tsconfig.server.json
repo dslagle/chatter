@@ -1,0 +1,9 @@
+{
+    "files": [
+        "./typings/index.d.ts",
+        "./server.ts",
+        "./models/message.ts",
+        "./models/user.ts",
+        "./routes/message.ts"
+    ]
+}
